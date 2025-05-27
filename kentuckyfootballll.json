@@ -61821,7 +61821,7 @@
         },
         {
           "abbreviation" : "STX",
-          "prestige" : "81",
+          "prestige" : "95",
           "hexColor" : "#86B953",
           "rivalryNames" : {
 
@@ -106672,14 +106672,14 @@
         }
       ],
       "confFullName" : "Bowling Green",
-      "confPrestige" : "85",
+      "confPrestige" : "95",
       "confName" : "BOWL"
     },
     {
       "confTeams" : [
         {
           "abbreviation" : "LCC",
-          "prestige" : "95",
+          "prestige" : "65",
           "hexColor" : "#004A81",
           "rivalryNames" : {
 
@@ -111984,7 +111984,7 @@
         },
         {
           "abbreviation" : "SAM",
-          "prestige" : "90",
+          "prestige" : "55",
           "hexColor" : "#3F5623",
           "rivalryNames" : {
 
